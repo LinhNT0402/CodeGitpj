@@ -1,4 +1,4 @@
-
+thay đổi
   Query a data provider and return a promise for a response
  
   @example
